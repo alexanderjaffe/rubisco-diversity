@@ -1,3 +1,3 @@
 # rubisco-diversity
 
-Code supporting "Diversity-driven biochemical survey reveals dimeric origins of rubisco" (Kehl, Taylor-Kearney, et al. 2025).
+Code supporting "Diversity-driven biochemical survey reveals widespread dimerization throughout the rubisco superfamily" (Kehl, Taylor-Kearney, et al. 2025).
